@@ -1,6 +1,6 @@
 // FizzBuzz
 // Count up from 0 to 100
-// For every number divisible by 5 pint 'Fizz'
+// For every number divisible by 5 print 'Fizz'
 // For every number divisible by 3 print 'Buzz'
 
 //for (var number = 1; number <= 100; number = number + 1){
